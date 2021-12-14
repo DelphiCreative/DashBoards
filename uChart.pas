@@ -284,6 +284,7 @@ begin
    rFundo.Width         := Comp.Width;
    rFundo.Position.X    := 5;
    rFundo.Position.Y    := 170;
+   rFundo.ClipChildren  := True;
 
    rFundo.Height        := Comp.Height  / Max -5 ;
    rFundo.Size.PlatformDefault := False;
@@ -293,6 +294,7 @@ begin
    rFundo.OnMouseDown   := CardMouseDown;
 
    rBar := TRectangle.Create(rFundo);
+
    rBar.Align                := TAlignLayout.Left;
    rBar.Fill.Color           := Cor ;
    rBar.HitTest              := False;
@@ -333,6 +335,7 @@ begin
    rFundo.Position.Y    := 170;
    rFundo.Size.PlatformDefault := False;
    rFundo.Stroke.Kind   := TBrushKind.None;
+   rFundo.ClipChildren  := True;
 
    rBar := TRectangle.Create(rFundo);
    rBar.Align      := TAlignLayout.Bottom;

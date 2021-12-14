@@ -778,7 +778,7 @@ object Form4: TForm4
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
         StyleLookup = 'dateeditstyle'
-        TabOrder = 12
+        TabOrder = 14
       end
       object CorCC1: TComboColorBox
         Color = claGreen
@@ -787,7 +787,7 @@ object Form4: TForm4
         Size.Width = 101.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 11
+        TabOrder = 13
       end
       object Label6: TLabel
         Position.X = 300.000000000000000000
@@ -796,7 +796,7 @@ object Form4: TForm4
         Size.Height = 17.000000000000000000
         Size.PlatformDefault = False
         Text = 'Cor Simples'
-        TabOrder = 3
+        TabOrder = 5
       end
       object ValoresCC: TMemo
         Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
@@ -806,7 +806,7 @@ object Form4: TForm4
         Size.Width = 225.000000000000000000
         Size.Height = 121.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 13
+        TabOrder = 15
         Viewport.Width = 221.000000000000000000
         Viewport.Height = 117.000000000000000000
       end
@@ -818,7 +818,7 @@ object Form4: TForm4
         Size.PlatformDefault = False
         StyleLookup = 'listboxheaderlabel'
         Text = 'Calend'#225'rio'
-        TabOrder = 8
+        TabOrder = 10
       end
       object CorCC2: TComboColorBox
         Color = claIndigo
@@ -827,7 +827,7 @@ object Form4: TForm4
         Size.Width = 101.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 9
+        TabOrder = 11
       end
       object Label12: TLabel
         Position.X = 413.000000000000000000
@@ -846,7 +846,7 @@ object Form4: TForm4
         Size.PlatformDefault = False
         StyleLookup = 'listboxheaderlabel'
         Text = 'Calend'#225'rio Simples'
-        TabOrder = 5
+        TabOrder = 6
       end
       object Label14: TLabel
         Position.X = 16.000000000000000000
@@ -898,7 +898,7 @@ object Form4: TForm4
         Size.PlatformDefault = False
         StyleLookup = 'listboxheaderlabel'
         Text = 'Calend'#225'rio Simples'
-        TabOrder = 13
+        TabOrder = 15
       end
       object Calendario3: TRectangle
         Fill.Color = claWhite
@@ -918,7 +918,7 @@ object Form4: TForm4
         Size.Width = 241.000000000000000000
         Size.Height = 121.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 20
+        TabOrder = 22
         Viewport.Width = 237.000000000000000000
         Viewport.Height = 117.000000000000000000
       end
@@ -929,7 +929,7 @@ object Form4: TForm4
         Size.Width = 101.000000000000000000
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
-        TabOrder = 17
+        TabOrder = 19
       end
       object Label16: TLabel
         Position.X = 308.000000000000000000
@@ -938,7 +938,7 @@ object Form4: TForm4
         Size.Height = 17.000000000000000000
         Size.PlatformDefault = False
         Text = 'TimeLine 1'
-        TabOrder = 7
+        TabOrder = 9
       end
       object Label17: TLabel
         Position.X = 421.000000000000000000
@@ -957,7 +957,7 @@ object Form4: TForm4
         Size.Height = 22.000000000000000000
         Size.PlatformDefault = False
         StyleLookup = 'dateeditstyle'
-        TabOrder = 11
+        TabOrder = 12
       end
       object Label18: TLabel
         Position.X = 304.000000000000000000
@@ -967,7 +967,7 @@ object Form4: TForm4
         Size.PlatformDefault = False
         StyleLookup = 'listboxheaderlabel'
         Text = 'Calend'#225'rio'
-        TabOrder = 9
+        TabOrder = 10
       end
       object ComboColorBox1: TComboColorBox
         Color = claCornflowerblue

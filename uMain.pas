@@ -11,7 +11,7 @@ uses
   FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS,
   FireDAC.Phys.Intf, FireDAC.DApt.Intf, Data.DB, FireDAC.Comp.DataSet,
   FireDAC.Comp.Client, FMX.ListBox, FMX.SearchBox, FMX.ScrollBox, FMX.Memo,
-  FMX.MultiView, FMX.TabControl;
+  FMX.MultiView, FMX.TabControl, FMX.Memo.Types;
 
 type
   TForm4 = class(TForm)
